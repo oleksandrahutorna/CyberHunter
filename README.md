@@ -1,4 +1,5 @@
 # CyberHunter
+<img width="1291" height="837" alt="Screenshot 2026-09-13 000353" src="https://github.com/user-attachments/assets/972691da-d25b-4d59-aa2e-94c168c1ab2c" />
 
 CyberHunter — це проста браузерна/десктопна клік-гра у стилі arcade, створена на Python за допомогою Tkinter. Гравець має влучати по рухомій цілі, заробляти очки, уникати промахів і проходити рівні зі збільшенням складності.
 
